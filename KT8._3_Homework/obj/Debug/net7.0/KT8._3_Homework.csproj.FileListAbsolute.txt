@@ -1,0 +1,14 @@
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\bin\Debug\net7.0\KT8._3_Homework.exe
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\bin\Debug\net7.0\KT8._3_Homework.deps.json
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\bin\Debug\net7.0\KT8._3_Homework.runtimeconfig.json
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\bin\Debug\net7.0\KT8._3_Homework.dll
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\bin\Debug\net7.0\KT8._3_Homework.pdb
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\obj\Debug\net7.0\KT8._3_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\obj\Debug\net7.0\KT8._3_Homework.AssemblyInfoInputs.cache
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\obj\Debug\net7.0\KT8._3_Homework.AssemblyInfo.cs
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\obj\Debug\net7.0\KT8._3_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\obj\Debug\net7.0\KT8._3_Homework.dll
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\obj\Debug\net7.0\refint\KT8._3_Homework.dll
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\obj\Debug\net7.0\KT8._3_Homework.pdb
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\obj\Debug\net7.0\KT8._3_Homework.genruntimeconfig.cache
+C:\Users\Максим\source\repos\KT8._3_Homework\KT8._3_Homework\obj\Debug\net7.0\ref\KT8._3_Homework.dll
